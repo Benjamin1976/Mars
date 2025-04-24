@@ -1,4 +1,1 @@
-hello
-password2
-password
-new password
+world
